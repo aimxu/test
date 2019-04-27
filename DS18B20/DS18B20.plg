@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+G:\work\开放实验室\开放性实验17-18下\第二周\【Realplay】DS18B20 测温模块 温度传感器模块\测试程序\DS18B20\DS18B20.uvproj
+Project File Date:  05/15/2018
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling Main.c...
+--- Error: failed to execute 'd:\Keil\C51\BIN\C51.EXE'
+Target not created
